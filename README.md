@@ -15,16 +15,13 @@ between path.
 
 ## Screenshots
 1) Game Landing page
-![alt text](https://github.com/zhcet19/Nadeem-Tarin-Hall-Canteen-Management-System/blob/master/image%20folder/project1.png)
+![alt text]
 
 
 
-2) Login page of website
-![alt text](https://github.com/zhcet19/Nadeem-Tarin-Hall-Canteen-Management-System/blob/master/image%20folder/project2.png)
+2) Game Scene
+![alt text]
 
-
-3) Registration page
-![alt text](https://github.com/zhcet19/Nadeem-Tarin-Hall-Canteen-Management-System/blob/master/image%20folder/project7.png)
 
 
 ## Technologies
