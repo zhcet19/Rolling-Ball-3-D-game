@@ -15,12 +15,12 @@ between path.
 
 ## Screenshots
 1) Game Landing page
-![alt text]
+![alt text](https://github.com/zhcet19/Rolling-Ball-3-D-game/blob/master/s1.png)
 
 
 
 2) Game Scene
-![alt text]
+![alt text](https://github.com/zhcet19/Rolling-Ball-3-D-game/blob/master/s2.png)
 
 
 
